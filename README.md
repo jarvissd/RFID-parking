@@ -1,0 +1,2 @@
+- Những thư viện như LCD, RC522 là do mình lấy từ trên git xuống và không thuộc quyền sở hữu của mình 
+- Những thư viện các bạn bắt buộc phải lấy về thì mới chạy được code
